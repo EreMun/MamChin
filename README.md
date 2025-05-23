@@ -12,10 +12,8 @@ Una cámara trampa es...
 Conoce la ubicación de las estaciones
 [Mapa de cámaras](https://eremun.github.io/MamChin/mapa_estaciones.html)
 
-Conoce a los animales captados
-[Mapa de avistamientos con fecha](https://eremun.github.io/MamChin/mapa_avistamientos_fechas.html)
 
-Conoce más detalles de los avistamientos
+Conoce detalles de los avistamientos
 [Mapa de avistamientos](https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html)
 
 
