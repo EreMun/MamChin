@@ -1,4 +1,4 @@
-
+le
 # Mamíferos de la Chinantla
 <img src="logo_pap.png" alt="drawing" width="100"/>
 
@@ -16,6 +16,6 @@ Conoce a los animales captados
 [Mapa de avistamientos con fecha](https://eremun.github.io/MamChin/mapa_avistamientos_fechas.html)
 
 Conoce más detalles de los avistamientos
-[Mapa de avistamientos](https://eremun.github.io/MamChin/mapa_avistamientos.html)
+[Mapa de avistamientos](https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html)
 
 
