@@ -18,6 +18,6 @@ Conoce detalles de los avistamientos
 
 
 Hola
-<a href="[http://...](https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html)" target="_blank">external link</a>
+<a href="https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html" target="_blank">Hello, google!</a>
 
 
