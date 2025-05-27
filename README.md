@@ -17,3 +17,7 @@ Conoce detalles de los avistamientos
 [Mapa de avistamientos](https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html)
 
 
+Hola
+<a href="[http://...](https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html)" target="_blank">external link</a>
+
+
