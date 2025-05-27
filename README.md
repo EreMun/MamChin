@@ -10,14 +10,9 @@ Proyecto Cámaras Trampa y Mamíferos de la Chinantla
 Una cámara trampa es...
 
 Conoce la ubicación de las estaciones
-[Mapa de cámaras](https://eremun.github.io/MamChin/mapa_estaciones.html)
-
+<a href="https://eremun.github.io/MamChin/mapa_estaciones.html" target="_blank">Mapa de cámaras</a>
 
 Conoce detalles de los avistamientos
-[Mapa de avistamientos](https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html)
-
-
-Hola
-<a href="https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html" target="_blank">Hello, google!</a>
+<a href="https://eremun.github.io/MamChin/mapa_avistamientos_detalle.html" target="_blank">Mapa de avistamientos</a>
 
 
