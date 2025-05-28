@@ -1,4 +1,4 @@
-le
+
 # Mamíferos de la Chinantla
 <img src="logo_pap.png" alt="drawing" width="100"/>
 
